@@ -1,0 +1,13 @@
+[lab5]
+Create Crud System to manage School
+1- Create DB in DB server [storedb] [CLI OR With phpmyadmin].
+2- Create Table Called [students] With These Fields:
+	-id (int-pk - ai)
+	-student_name [input text]
+	-(extra) stu_img
+	-birth_date[date picker]
+	-courses[html-css-php][Drop down]
+	-student_status[avilable-not available][radio]
+3-	using Bootstrap do The form with all elements above without id [index.php].
+4- select all students in table [index.php]
+5- show, delete and edit student

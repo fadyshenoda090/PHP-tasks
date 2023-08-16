@@ -1,0 +1,6 @@
+1- Choose any 3 string functions (out of lecture functions) and give examples on it (You must understand and explain it).
+2- Choose any 3 array functions (out of lecture functions) and give examples on it (You must understand and explain it).
+3- Add uploaded Image to Form then Send all data to another page, show data with uploaded picture preview.
+4- Save data in file
+
+Best Wishes 
